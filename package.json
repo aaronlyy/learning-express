@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "name": "learning-express",
+  "description": "repo to track my express learning progress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:get": "nodemon ./basics/get.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronlyy/learning-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronlyy/learning-express/issues"
+  },
+  "homepage": "https://github.com/aaronlyy/learning-express#readme"
+}
